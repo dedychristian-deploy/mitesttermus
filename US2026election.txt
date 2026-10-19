@@ -1,0 +1,22 @@
+get all house
+http://api-dev.aljazeera.tv/services/ap/rest/v1.0/elections/2026?officeid=H
+
+To Get Map
+https://api-dev.aljazeera.tv/services/ap/rest/v1.0/elections/2022/map
+
+
+To Get Senat Seats
+https://api-dev.aljazeera.tv/services/ap/rest/v1.0/elections/2026/seats?officeid=S
+
+
+
+To get Seats
+https://api-dev.aljazeera.tv/services/ap/rest/v1.0/elections/2026/seats
+
+
+States
+http://api-dev.aljazeera.tv/services/ap/rest/v1.0/elections/2026?officeid=H&states=CA
+
+
+All
+https://api-dev.aljazeera.tv/services/ap/rest/v1.0/elections/2026
